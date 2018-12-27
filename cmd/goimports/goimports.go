@@ -41,6 +41,7 @@ var (
 		TabIndent: true,
 		Comments:  true,
 		Fragment:  true,
+		FormatOnly: true,
 	}
 	exitCode = 0
 )
